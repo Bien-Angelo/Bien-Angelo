@@ -1,4 +1,9 @@
-## Hi there 👋
+About Me:
+I am currently a Sophomore Biochem Student at University of Santo Tomas Manila.
+Aspiring Bioinformatics Engineer.
+Mastering Linux & Python for Genomics.
+
+
 
 <!--
 **Bien-Angelo/Bien-Angelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
