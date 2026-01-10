@@ -1,6 +1,6 @@
 About Me:
 I am currently a Sophomore Biochem Student at University of Santo Tomas Manila.
-Aspiring Bioinformatics Engineer.
+Aspiring Health Data Scientist.
 Mastering Linux & Python for Genomics.
 
 
